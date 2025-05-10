@@ -1,0 +1,9 @@
+Bull Market: A market condition where stock prices are rising or expected to rise, characterized by investor optimism and confidence.
+
+Bear Market: A market condition where stock prices are falling or expected to fall, often accompanied by investor pessimism.
+
+P/E Ratio: The price-to-earnings ratio is a valuation metric calculated by dividing a company's current share price by its earnings per share.
+
+Dividend: A portion of a company's earnings distributed to shareholders, usually as cash payments.
+
+Diversification: An investment strategy of holding a variety of assets to reduce risk. Strong performance of some investments can offset poor performance of others.

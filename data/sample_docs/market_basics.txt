@@ -1,0 +1,5 @@
+The stock market is where investors buy and sell shares of companies. Stock prices fluctuate based on supply and demand, company performance, and economic conditions.
+
+Major indices like the S&P 500 and Dow Jones Industrial Average track overall market performance. When these indices rise, it generally indicates broad market gains; when they fall, it indicates market decline.
+
+Economic factors such as interest rates, inflation, and employment can influence market trends. For example, high inflation or interest rate hikes can put downward pressure on stock prices, while strong job growth and consumer spending can boost investor confidence.
